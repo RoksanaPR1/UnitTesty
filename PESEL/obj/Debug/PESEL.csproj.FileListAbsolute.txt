@@ -1,0 +1,7 @@
+D:\WSB\sem_4\programowanie (dot)Net\UnitTest\PESEL\obj\Debug\PESEL.csprojAssemblyReference.cache
+D:\WSB\sem_4\programowanie (dot)Net\UnitTest\PESEL\obj\Debug\PESEL.csproj.CoreCompileInputs.cache
+D:\WSB\sem_4\programowanie (dot)Net\UnitTest\PESEL\bin\Debug\PESEL.dll.config
+D:\WSB\sem_4\programowanie (dot)Net\UnitTest\PESEL\bin\Debug\PESEL.dll
+D:\WSB\sem_4\programowanie (dot)Net\UnitTest\PESEL\bin\Debug\PESEL.pdb
+D:\WSB\sem_4\programowanie (dot)Net\UnitTest\PESEL\obj\Debug\PESEL.dll
+D:\WSB\sem_4\programowanie (dot)Net\UnitTest\PESEL\obj\Debug\PESEL.pdb
